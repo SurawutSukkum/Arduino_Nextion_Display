@@ -4,3 +4,4 @@ Nextion is a Human Machine Interface (HMI) solution. Nextion displays are resist
 MG811 Carbon Dioxide CO2 Sensor Module is a sensor that is highly sensitive to carbon dioxide.
 Setting :
 https://randomnerdtutorials.com/nextion-display-with-arduino-getting-started/
+![alt text](https://github.com/SurawutSukkum/Arduino_Nextion_Display/blob/main/image.JPG?raw=true)
